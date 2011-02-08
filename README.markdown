@@ -9,9 +9,9 @@ Assuming you're not using a particularly fancy architecture for your website, ju
 Example
 -------
 Near the end of your `<body>`, some place after the declaration of the element you want to apply the overlay to:
-    `<script type="text/javascript" src="overflow-touch.js">
+    <script type="text/javascript" src="overflow-touch.js">
         setIosOverlay('yourOverflowContainerElementDomIdHere');
-    </script>`   
+    </script>   
   
 License
 -------
