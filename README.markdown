@@ -4,7 +4,7 @@ This is a very simple way to tell iPhone/iPod Touch/iPad(?) users using Safari t
 
 Usage
 -----
-Assuming you're not using a particularly fancy architecture for your website, just plop the three directories in the repo into your webroot and call the setIosOverlay function from any page in your webroot. This function takes in the parameter element_id, which 
+Assuming you're not using a particularly fancy architecture for your website, just plop the files in the repo into your webroot and call the setIosOverlay function from any page in your webroot. This function takes in the parameter element_id, which is the DOM id for the element you want the overlay to appear over.
 
 Example
 -------
