@@ -1,6 +1,8 @@
 /***
-	element_id: Set to the block element's DOM ID that you want to have the overlay appear over (div, article, whatevs)
+	Copyright (c) 2011 David Huerta.  Distributed under the MIT license: http://www.opensource.org/licenses/mit-license.php 
 ***/
+
+//element_id: Set to the block element's DOM ID that you want to have the overlay appear over (div, article, whatevs)
 function setIosOverlay(element_id)
 {
 	var is_ios = (navigator.userAgent.toLowerCase().indexOf('iphone') != -1);
