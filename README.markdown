@@ -13,7 +13,7 @@ In your `<head>`, add this reference:
 
 Near the end of your `<body>`, some place after the declaration of the element you want to apply the overlay to:
     <script type="text/javascript">
-        setIosOverlay('yourOverflowContainerElementDomIdHere');
+      setIosOverlay('yourOverflowContainerElementDomIdHere');
     </script>   
   
 License
